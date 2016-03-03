@@ -1,0 +1,644 @@
+
+VERITAS Analysis Summary (University of Delaware & DESY)  (version v.4.70b)
+==========================================================================
+
+merging analysis results
+
+Reading anasum parameters from /u/home/vvv/apopkow/DATA/ParameterFiles/ANASUM.runparameter.MGRO1908 :
+
+* TIMEMASKFILE ANASUM.timemask.dat
+* REGIONTOEXCLUDE 0. 0. 0.63
+* ENERGYSPECTRALINDEX 2.4
+* SKYMAPBINSIZE 0.01
+* SKYMAPBINSIZEUC 0.05
+* SKYMAPSIZEX -2. 2.
+* SKYMAPSIZEY -2. 2.
+* BRIGHTSTARCATALOGUE Hipparcos_MAG8_1997.dat
+* BRIGHTSTARBRIGHTNESS 8.0
+* BRIGHTSTAREXCLUDEFROMBACKGROUNDRADIUS 0.30
+* ENERGYBINSIZE 0.05
+* ENERGYEFFECTIVEAREAS REC
+* ENERGYRECONSTRUCTIONMETHOD 1
+* DEADTIMECALCULATIONMETHOD 0
+* RATEINTERVALLLENGTH 4.
+========================================================
+        end reading run parameters                      
+========================================================
+
+Reading long run list from (S0, TA1): moderateExt2tel.anasum.dat
+Random seed for stereo maps: 17
+
+File with list of runs  (long version): moderateExt2tel.anasum.dat (file format version 6, 194 runs found in list)
+reading in histograms from .//36738.anasum.root
+	 copy histograms for run 36738
+reading in histograms from .//36739.anasum.root
+	 copy histograms for run 36739
+reading in histograms from .//36740.anasum.root
+	 copy histograms for run 36740
+reading in histograms from .//36741.anasum.root
+	 copy histograms for run 36741
+reading in histograms from .//36880.anasum.root
+	 copy histograms for run 36880
+reading in histograms from .//36882.anasum.root
+	 copy histograms for run 36882
+reading in histograms from .//36883.anasum.root
+	 copy histograms for run 36883
+reading in histograms from .//36884.anasum.root
+	 copy histograms for run 36884
+reading in histograms from .//36933.anasum.root
+	 copy histograms for run 36933
+reading in histograms from .//36935.anasum.root
+	 copy histograms for run 36935
+reading in histograms from .//36936.anasum.root
+	 copy histograms for run 36936
+reading in histograms from .//36937.anasum.root
+	 copy histograms for run 36937
+reading in histograms from .//36938.anasum.root
+	 copy histograms for run 36938
+reading in histograms from .//36972.anasum.root
+	 copy histograms for run 36972
+reading in histograms from .//37013.anasum.root
+	 copy histograms for run 37013
+reading in histograms from .//37014.anasum.root
+	 copy histograms for run 37014
+reading in histograms from .//37015.anasum.root
+	 copy histograms for run 37015
+reading in histograms from .//37047.anasum.root
+	 copy histograms for run 37047
+reading in histograms from .//37050.anasum.root
+	 copy histograms for run 37050
+reading in histograms from .//37052.anasum.root
+	 copy histograms for run 37052
+reading in histograms from .//37100.anasum.root
+	 copy histograms for run 37100
+reading in histograms from .//37101.anasum.root
+	 copy histograms for run 37101
+reading in histograms from .//37102.anasum.root
+	 copy histograms for run 37102
+reading in histograms from .//37157.anasum.root
+	 copy histograms for run 37157
+reading in histograms from .//37158.anasum.root
+	 copy histograms for run 37158
+reading in histograms from .//37471.anasum.root
+	 copy histograms for run 37471
+reading in histograms from .//37473.anasum.root
+	 copy histograms for run 37473
+reading in histograms from .//37474.anasum.root
+	 copy histograms for run 37474
+reading in histograms from .//37475.anasum.root
+	 copy histograms for run 37475
+reading in histograms from .//37485.anasum.root
+	 copy histograms for run 37485
+reading in histograms from .//37486.anasum.root
+	 copy histograms for run 37486
+reading in histograms from .//37499.anasum.root
+	 copy histograms for run 37499
+reading in histograms from .//37500.anasum.root
+	 copy histograms for run 37500
+reading in histograms from .//37501.anasum.root
+	 copy histograms for run 37501
+reading in histograms from .//37516.anasum.root
+	 copy histograms for run 37516
+reading in histograms from .//37517.anasum.root
+	 copy histograms for run 37517
+reading in histograms from .//37518.anasum.root
+	 copy histograms for run 37518
+reading in histograms from .//37608.anasum.root
+	 copy histograms for run 37608
+reading in histograms from .//37609.anasum.root
+	 copy histograms for run 37609
+reading in histograms from .//37645.anasum.root
+	 copy histograms for run 37645
+reading in histograms from .//37646.anasum.root
+	 copy histograms for run 37646
+reading in histograms from .//41021.anasum.root
+	 copy histograms for run 41021
+reading in histograms from .//41022.anasum.root
+	 copy histograms for run 41022
+reading in histograms from .//41023.anasum.root
+	 copy histograms for run 41023
+reading in histograms from .//41024.anasum.root
+	 copy histograms for run 41024
+reading in histograms from .//41025.anasum.root
+	 copy histograms for run 41025
+reading in histograms from .//41051.anasum.root
+	 copy histograms for run 41051
+reading in histograms from .//41052.anasum.root
+	 copy histograms for run 41052
+reading in histograms from .//41053.anasum.root
+	 copy histograms for run 41053
+reading in histograms from .//41055.anasum.root
+	 copy histograms for run 41055
+reading in histograms from .//41056.anasum.root
+	 copy histograms for run 41056
+reading in histograms from .//41057.anasum.root
+	 copy histograms for run 41057
+reading in histograms from .//41082.anasum.root
+	 copy histograms for run 41082
+reading in histograms from .//41104.anasum.root
+	 copy histograms for run 41104
+reading in histograms from .//41105.anasum.root
+	 copy histograms for run 41105
+reading in histograms from .//41150.anasum.root
+	 copy histograms for run 41150
+reading in histograms from .//41151.anasum.root
+	 copy histograms for run 41151
+reading in histograms from .//41152.anasum.root
+	 copy histograms for run 41152
+reading in histograms from .//41153.anasum.root
+	 copy histograms for run 41153
+reading in histograms from .//41155.anasum.root
+	 copy histograms for run 41155
+reading in histograms from .//41175.anasum.root
+	 copy histograms for run 41175
+reading in histograms from .//41176.anasum.root
+	 copy histograms for run 41176
+reading in histograms from .//46906.anasum.root
+	 copy histograms for run 46906
+reading in histograms from .//46936.anasum.root
+	 copy histograms for run 46936
+reading in histograms from .//46938.anasum.root
+	 copy histograms for run 46938
+reading in histograms from .//46968.anasum.root
+	 copy histograms for run 46968
+reading in histograms from .//46970.anasum.root
+	 copy histograms for run 46970
+reading in histograms from .//47001.anasum.root
+	 copy histograms for run 47001
+reading in histograms from .//47003.anasum.root
+	 copy histograms for run 47003
+reading in histograms from .//47036.anasum.root
+	 copy histograms for run 47036
+reading in histograms from .//47037.anasum.root
+	 copy histograms for run 47037
+reading in histograms from .//47081.anasum.root
+	 copy histograms for run 47081
+reading in histograms from .//47082.anasum.root
+	 copy histograms for run 47082
+reading in histograms from .//47130.anasum.root
+	 copy histograms for run 47130
+reading in histograms from .//47464.anasum.root
+	 copy histograms for run 47464
+reading in histograms from .//47500.anasum.root
+	 copy histograms for run 47500
+reading in histograms from .//47538.anasum.root
+	 copy histograms for run 47538
+reading in histograms from .//47615.anasum.root
+	 copy histograms for run 47615
+reading in histograms from .//51066.anasum.root
+	 copy histograms for run 51066
+reading in histograms from .//51120.anasum.root
+	 copy histograms for run 51120
+reading in histograms from .//51295.anasum.root
+	 copy histograms for run 51295
+reading in histograms from .//51297.anasum.root
+	 copy histograms for run 51297
+reading in histograms from .//51316.anasum.root
+	 copy histograms for run 51316
+reading in histograms from .//51318.anasum.root
+	 copy histograms for run 51318
+reading in histograms from .//51320.anasum.root
+	 copy histograms for run 51320
+reading in histograms from .//51367.anasum.root
+	 copy histograms for run 51367
+reading in histograms from .//51369.anasum.root
+	 copy histograms for run 51369
+reading in histograms from .//51411.anasum.root
+	 copy histograms for run 51411
+reading in histograms from .//51471.anasum.root
+	 copy histograms for run 51471
+reading in histograms from .//51473.anasum.root
+	 copy histograms for run 51473
+reading in histograms from .//51486.anasum.root
+	 copy histograms for run 51486
+reading in histograms from .//51488.anasum.root
+	 copy histograms for run 51488
+reading in histograms from .//51491.anasum.root
+	 copy histograms for run 51491
+reading in histograms from .//51496.anasum.root
+	 copy histograms for run 51496
+reading in histograms from .//51498.anasum.root
+	 copy histograms for run 51498
+reading in histograms from .//52511.anasum.root
+	 copy histograms for run 52511
+reading in histograms from .//56524.anasum.root
+	 copy histograms for run 56524
+reading in histograms from .//56548.anasum.root
+	 copy histograms for run 56548
+reading in histograms from .//56579.anasum.root
+	 copy histograms for run 56579
+reading in histograms from .//56651.anasum.root
+	 copy histograms for run 56651
+reading in histograms from .//56688.anasum.root
+	 copy histograms for run 56688
+reading in histograms from .//56701.anasum.root
+	 copy histograms for run 56701
+reading in histograms from .//56920.anasum.root
+	 copy histograms for run 56920
+reading in histograms from .//57022.anasum.root
+	 copy histograms for run 57022
+reading in histograms from .//57026.anasum.root
+	 copy histograms for run 57026
+reading in histograms from .//57048.anasum.root
+	 copy histograms for run 57048
+reading in histograms from .//57067.anasum.root
+	 copy histograms for run 57067
+reading in histograms from .//57072.anasum.root
+	 copy histograms for run 57072
+reading in histograms from .//57102.anasum.root
+	 copy histograms for run 57102
+reading in histograms from .//57120.anasum.root
+	 copy histograms for run 57120
+reading in histograms from .//57131.anasum.root
+	 copy histograms for run 57131
+reading in histograms from .//57143.anasum.root
+	 copy histograms for run 57143
+reading in histograms from .//57157.anasum.root
+	 copy histograms for run 57157
+reading in histograms from .//57355.anasum.root
+	 copy histograms for run 57355
+reading in histograms from .//57405.anasum.root
+	 copy histograms for run 57405
+reading in histograms from .//57798.anasum.root
+	 copy histograms for run 57798
+reading in histograms from .//57825.anasum.root
+	 copy histograms for run 57825
+reading in histograms from .//57855.anasum.root
+	 copy histograms for run 57855
+reading in histograms from .//57856.anasum.root
+	 copy histograms for run 57856
+reading in histograms from .//62573.anasum.root
+	 copy histograms for run 62573
+reading in histograms from .//62597.anasum.root
+	 copy histograms for run 62597
+reading in histograms from .//62598.anasum.root
+	 copy histograms for run 62598
+reading in histograms from .//62599.anasum.root
+	 copy histograms for run 62599
+reading in histograms from .//62600.anasum.root
+	 copy histograms for run 62600
+reading in histograms from .//62601.anasum.root
+	 copy histograms for run 62601
+reading in histograms from .//62624.anasum.root
+	 copy histograms for run 62624
+reading in histograms from .//62625.anasum.root
+	 copy histograms for run 62625
+reading in histograms from .//62626.anasum.root
+	 copy histograms for run 62626
+reading in histograms from .//62647.anasum.root
+	 copy histograms for run 62647
+reading in histograms from .//62648.anasum.root
+	 copy histograms for run 62648
+reading in histograms from .//62649.anasum.root
+	 copy histograms for run 62649
+reading in histograms from .//62650.anasum.root
+	 copy histograms for run 62650
+reading in histograms from .//62698.anasum.root
+	 copy histograms for run 62698
+reading in histograms from .//62699.anasum.root
+	 copy histograms for run 62699
+reading in histograms from .//62700.anasum.root
+	 copy histograms for run 62700
+reading in histograms from .//62701.anasum.root
+	 copy histograms for run 62701
+reading in histograms from .//62702.anasum.root
+	 copy histograms for run 62702
+reading in histograms from .//62721.anasum.root
+	 copy histograms for run 62721
+reading in histograms from .//62722.anasum.root
+	 copy histograms for run 62722
+reading in histograms from .//62723.anasum.root
+	 copy histograms for run 62723
+reading in histograms from .//62724.anasum.root
+	 copy histograms for run 62724
+reading in histograms from .//62725.anasum.root
+	 copy histograms for run 62725
+reading in histograms from .//62749.anasum.root
+	 copy histograms for run 62749
+reading in histograms from .//62750.anasum.root
+	 copy histograms for run 62750
+reading in histograms from .//62751.anasum.root
+	 copy histograms for run 62751
+reading in histograms from .//62752.anasum.root
+	 copy histograms for run 62752
+reading in histograms from .//62753.anasum.root
+	 copy histograms for run 62753
+reading in histograms from .//62774.anasum.root
+	 copy histograms for run 62774
+reading in histograms from .//62775.anasum.root
+	 copy histograms for run 62775
+reading in histograms from .//62776.anasum.root
+	 copy histograms for run 62776
+reading in histograms from .//62777.anasum.root
+	 copy histograms for run 62777
+reading in histograms from .//62778.anasum.root
+	 copy histograms for run 62778
+reading in histograms from .//62794.anasum.root
+	 copy histograms for run 62794
+reading in histograms from .//62795.anasum.root
+	 copy histograms for run 62795
+reading in histograms from .//62823.anasum.root
+	 copy histograms for run 62823
+reading in histograms from .//62824.anasum.root
+	 copy histograms for run 62824
+reading in histograms from .//62825.anasum.root
+	 copy histograms for run 62825
+reading in histograms from .//62826.anasum.root
+	 copy histograms for run 62826
+reading in histograms from .//62857.anasum.root
+	 copy histograms for run 62857
+reading in histograms from .//62858.anasum.root
+	 copy histograms for run 62858
+reading in histograms from .//62859.anasum.root
+	 copy histograms for run 62859
+reading in histograms from .//62860.anasum.root
+	 copy histograms for run 62860
+reading in histograms from .//62861.anasum.root
+	 copy histograms for run 62861
+reading in histograms from .//62885.anasum.root
+	 copy histograms for run 62885
+reading in histograms from .//62886.anasum.root
+	 copy histograms for run 62886
+reading in histograms from .//62920.anasum.root
+	 copy histograms for run 62920
+reading in histograms from .//62921.anasum.root
+	 copy histograms for run 62921
+reading in histograms from .//62922.anasum.root
+	 copy histograms for run 62922
+reading in histograms from .//62967.anasum.root
+	 copy histograms for run 62967
+reading in histograms from .//62969.anasum.root
+	 copy histograms for run 62969
+reading in histograms from .//62991.anasum.root
+	 copy histograms for run 62991
+reading in histograms from .//63008.anasum.root
+	 copy histograms for run 63008
+reading in histograms from .//63009.anasum.root
+	 copy histograms for run 63009
+reading in histograms from .//63089.anasum.root
+	 copy histograms for run 63089
+reading in histograms from .//63090.anasum.root
+	 copy histograms for run 63090
+reading in histograms from .//63129.anasum.root
+	 copy histograms for run 63129
+reading in histograms from .//63130.anasum.root
+	 copy histograms for run 63130
+reading in histograms from .//63131.anasum.root
+	 copy histograms for run 63131
+reading in histograms from .//63132.anasum.root
+	 copy histograms for run 63132
+reading in histograms from .//63133.anasum.root
+	 copy histograms for run 63133
+reading in histograms from .//63134.anasum.root
+	 copy histograms for run 63134
+reading in histograms from .//63167.anasum.root
+	 copy histograms for run 63167
+reading in histograms from .//63168.anasum.root
+	 copy histograms for run 63168
+reading in histograms from .//63169.anasum.root
+	 copy histograms for run 63169
+reading in histograms from .//63170.anasum.root
+	 copy histograms for run 63170
+reading in histograms from .//63207.anasum.root
+	 copy histograms for run 63207
+reading in histograms from .//63208.anasum.root
+	 copy histograms for run 63208
+reading in histograms from .//63209.anasum.root
+	 copy histograms for run 63209
+reading in histograms from .//63240.anasum.root
+	 copy histograms for run 63240
+reading in histograms from .//63289.anasum.root
+	 copy histograms for run 63289
+reading in histograms from .//63290.anasum.root
+	 copy histograms for run 63290
+reading in histograms from .//63291.anasum.root
+	 copy histograms for run 63291
+reading in histograms from .//63309.anasum.root
+	 copy histograms for run 63309
+reading in histograms from .//63310.anasum.root
+	 copy histograms for run 63310
+-----------------------------------------------------------------------(5)
+
+
+---------------------------------------
+Stereo analysis for all runs:
+	 Exposure ON=226262 secs (3771.03 min)  OFF=226262 secs (3771.03 min),	 Az range ON [0,0], OFF [0,0]
+	 mean elevation: 59.5466 (ON), 59.5461 (OFF)
+	 trigger rate : 83.44 Hz (ON), 83.44 Hz (Off)
+	 mean pedvars: 5.36525 (ON), 5.36525 (OFF)
+	 Maximum in CORRELATED maps: 
+	 4.929 (On: 4349, Off: 4.124e+04, Alpha: 0.09739, Off/Alpha: 4017) at (x=-0.53, y=1.27)
+	 Maximum in UNCORRELATED maps: 
+	 3.807 (On: 105, Off: 3.781e+04, Alpha: 0.001868, Off/Alpha: 70.63) at (x=0.9, y=-0.2)
+
+	 ---------------------------- 
+	 RESULTS FOR SOURCE POSITION: 
+	 ---------------------------- 
+	 ON:6097  OFF:5905 (off 4.98e+04, alpha=0.1186)
+	 2.345 Sigma  0.05084+/-0.02186 gammas/min
+	 background rate: 1.566 CR/min
+
+---------------------------------------
+
+
+RUN SUMMARY: 
+
+RUN 36738 at 60,-148 deg El., Az, 20.05 min, Non:   27, Noff: 27.90 ( 233, norm 0.120),  -0.2 sigma, Rates:  -0.045 +/-   0.275 gamma/min (background:   1.391 events/min)
+RUN 36739 at 58,-139 deg El., Az, 20.05 min, Non:   21, Noff: 29.35 ( 245, norm 0.120),  -1.5 sigma, Rates:  -0.416 +/-   0.247 gamma/min (background:   1.464 events/min)
+RUN 36740 at 55,-131 deg El., Az, 20.05 min, Non:   39, Noff: 28.18 ( 236, norm 0.119),   1.8 sigma, Rates:   0.540 +/-   0.325 gamma/min (background:   1.405 events/min)
+RUN 36741 at 50,-122 deg El., Az, 20.05 min, Non:   29, Noff: 22.70 ( 205, norm 0.111),   1.2 sigma, Rates:   0.314 +/-   0.280 gamma/min (background:   1.132 events/min)
+RUN 36880 at 61,-145 deg El., Az, 17.78 min, Non:   26, Noff: 25.25 ( 228, norm 0.111),   0.1 sigma, Rates:   0.042 +/-   0.302 gamma/min (background:   1.420 events/min)
+RUN 36882 at 57,-136 deg El., Az, 20.05 min, Non:   32, Noff: 32.57 ( 244, norm 0.133),  -0.1 sigma, Rates:  -0.029 +/-   0.301 gamma/min (background:   1.625 events/min)
+RUN 36883 at 54,-129 deg El., Az, 20.05 min, Non:   34, Noff: 33.91 ( 255, norm 0.133),   0.0 sigma, Rates:   0.005 +/-   0.310 gamma/min (background:   1.691 events/min)
+RUN 36884 at 49,-121 deg El., Az, 20.05 min, Non:   25, Noff: 26.89 ( 212, norm 0.127),  -0.3 sigma, Rates:  -0.094 +/-   0.266 gamma/min (background:   1.341 events/min)
+RUN 36933 at 59,-143 deg El., Az, 14.30 min, Non:   15, Noff: 19.04 ( 150, norm 0.127),  -0.9 sigma, Rates:  -0.283 +/-   0.292 gamma/min (background:   1.332 events/min)
+RUN 36935 at 56,-133 deg El., Az, 20.05 min, Non:   26, Noff: 32.53 ( 257, norm 0.127),  -1.1 sigma, Rates:  -0.326 +/-   0.274 gamma/min (background:   1.622 events/min)
+RUN 36936 at 52,-126 deg El., Az, 20.05 min, Non:   31, Noff: 31.30 ( 248, norm 0.126),  -0.1 sigma, Rates:  -0.015 +/-   0.295 gamma/min (background:   1.561 events/min)
+RUN 36937 at 49,-122 deg El., Az, 20.05 min, Non:   23, Noff: 28.44 ( 238, norm 0.119),  -1.0 sigma, Rates:  -0.271 +/-   0.256 gamma/min (background:   1.418 events/min)
+RUN 36938 at 45,-117 deg El., Az, 20.05 min, Non:   22, Noff: 25.86 ( 216, norm 0.120),  -0.7 sigma, Rates:  -0.192 +/-   0.250 gamma/min (background:   1.290 events/min)
+RUN 36972 (-0.5N,+0.0W)  at 52,-126 deg El., Az, 20.05 min, Non:   33, Noff: 27.66 ( 244, norm 0.113),   0.9 sigma, Rates:   0.266 +/-   0.300 gamma/min (background:   1.380 events/min)
+RUN 37013 (+0.0N,+0.5W)  at 59,-141 deg El., Az, 20.05 min, Non:   41, Noff: 28.74 ( 237, norm 0.121),   2.0 sigma, Rates:   0.611 +/-   0.333 gamma/min (background:   1.434 events/min)
+RUN 37014 (-0.0N,-0.5W)  at 56,-135 deg El., Az, 20.05 min, Non:   39, Noff: 33.07 ( 288, norm 0.115),   0.9 sigma, Rates:   0.296 +/-   0.326 gamma/min (background:   1.649 events/min)
+RUN 37015 (-0.0N,-0.5W)  at 53,-127 deg El., Az, 20.05 min, Non:   32, Noff: 33.21 ( 290, norm 0.115),  -0.2 sigma, Rates:  -0.060 +/-   0.298 gamma/min (background:   1.656 events/min)
+RUN 37047 (-0.5N,+0.0W)  at 60,-146 deg El., Az, 12.78 min, Non:   22, Noff: 23.55 ( 207, norm 0.114),  -0.3 sigma, Rates:  -0.121 +/-   0.389 gamma/min (background:   1.842 events/min)
+RUN 37050 (+0.0N,+0.5W)  at 53,-128 deg El., Az, 11.08 min, Non:   20, Noff: 16.64 ( 133, norm 0.125),   0.7 sigma, Rates:   0.303 +/-   0.424 gamma/min (background:   1.502 events/min)
+RUN 37052 (+0.0N,+0.5W)  at 50,-123 deg El., Az, 20.05 min, Non:   31, Noff: 30.00 ( 240, norm 0.125),   0.2 sigma, Rates:   0.050 +/-   0.294 gamma/min (background:   1.496 events/min)
+RUN 37100 (+0.5N,-0.0W)  at 60,-142 deg El., Az, 20.00 min, Non:   39, Noff: 38.58 ( 312, norm 0.124),   0.1 sigma, Rates:   0.021 +/-   0.331 gamma/min (background:   1.929 events/min)
+RUN 37101 (-0.5N,+0.0W)  at 56,-135 deg El., Az, 20.05 min, Non:   36, Noff: 33.28 ( 293, norm 0.114),   0.4 sigma, Rates:   0.136 +/-   0.315 gamma/min (background:   1.660 events/min)
+RUN 37102 (-0.0N,-0.5W)  at 53,-128 deg El., Az, 20.05 min, Non:   43, Noff: 34.81 ( 303, norm 0.115),   1.3 sigma, Rates:   0.409 +/-   0.342 gamma/min (background:   1.736 events/min)
+RUN 37157 (+0.0N,+0.5W)  at 58,-140 deg El., Az, 20.05 min, Non:   32, Noff: 29.71 ( 245, norm 0.121),   0.4 sigma, Rates:   0.114 +/-   0.298 gamma/min (background:   1.482 events/min)
+RUN 37158 (-0.0N,-0.5W)  at 55,-132 deg El., Az, 20.05 min, Non:   37, Noff: 32.40 ( 283, norm 0.114),   0.7 sigma, Rates:   0.229 +/-   0.318 gamma/min (background:   1.616 events/min)
+RUN 37471 (+0.5N,-0.0W)  at 52,-125 deg El., Az, 20.05 min, Non:   48, Noff: 31.63 ( 255, norm 0.124),   2.5 sigma, Rates:   0.817 +/-   0.359 gamma/min (background:   1.577 events/min)
+RUN 37473 (-0.5N,+0.0W)  at 47,-120 deg El., Az, 20.05 min, Non:   23, Noff: 23.26 ( 205, norm 0.113),  -0.1 sigma, Rates:  -0.013 +/-   0.253 gamma/min (background:   1.160 events/min)
+RUN 37474 (+0.0N,+0.5W)  at 42,-114 deg El., Az, 20.05 min, Non:   10, Noff: 13.83 ( 114, norm 0.121),  -1.0 sigma, Rates:  -0.191 +/-   0.170 gamma/min (background:   0.690 events/min)
+RUN 37475 (-0.0N,-0.5W)  at 41,-110 deg El., Az, 20.05 min, Non:    8, Noff:  6.54 (  57, norm 0.115),   0.5 sigma, Rates:   0.073 +/-   0.148 gamma/min (background:   0.326 events/min)
+RUN 37485 (+0.5N,-0.0W)  at 47,-118 deg El., Az, 20.05 min, Non:   22, Noff: 26.83 ( 217, norm 0.124),  -0.9 sigma, Rates:  -0.241 +/-   0.251 gamma/min (background:   1.338 events/min)
+RUN 37486 (-0.5N,+0.0W)  at 43,-114 deg El., Az, 20.05 min, Non:   25, Noff: 21.62 ( 191, norm 0.113),   0.7 sigma, Rates:   0.168 +/-   0.261 gamma/min (background:   1.078 events/min)
+RUN 37499 (-0.0N,-0.5W)  at 51,-124 deg El., Az, 20.05 min, Non:   44, Noff: 33.13 ( 289, norm 0.115),   1.7 sigma, Rates:   0.542 +/-   0.345 gamma/min (background:   1.652 events/min)
+RUN 37500 (+0.0N,+0.5W)  at 47,-118 deg El., Az, 20.05 min, Non:   27, Noff: 26.57 ( 219, norm 0.121),   0.1 sigma, Rates:   0.021 +/-   0.274 gamma/min (background:   1.325 events/min)
+RUN 37501 (+0.5N,-0.0W)  at 43,-113 deg El., Az, 20.05 min, Non:   29, Noff: 24.76 ( 200, norm 0.124),   0.8 sigma, Rates:   0.211 +/-   0.282 gamma/min (background:   1.235 events/min)
+RUN 37516 (-0.5N,+0.0W)  at 50,-124 deg El., Az, 18.17 min, Non:   38, Noff: 30.42 ( 268, norm 0.114),   1.2 sigma, Rates:   0.417 +/-   0.354 gamma/min (background:   1.675 events/min)
+RUN 37517 (-0.0N,-0.5W)  at 47,-118 deg El., Az, 20.05 min, Non:   28, Noff: 26.62 ( 232, norm 0.115),   0.3 sigma, Rates:   0.069 +/-   0.278 gamma/min (background:   1.328 events/min)
+RUN 37518 (+0.0N,+0.5W)  at 43,-113 deg El., Az, 20.05 min, Non:   19, Noff: 25.26 ( 208, norm 0.121),  -1.2 sigma, Rates:  -0.312 +/-   0.234 gamma/min (background:   1.260 events/min)
+RUN 37608 at 47,-121 deg El., Az, 20.05 min, Non:   27, Noff: 28.85 ( 223, norm 0.129),  -0.3 sigma, Rates:  -0.092 +/-   0.276 gamma/min (background:   1.439 events/min)
+RUN 37609 at 43,-116 deg El., Az, 20.05 min, Non:   23, Noff: 22.57 ( 175, norm 0.129),   0.1 sigma, Rates:   0.021 +/-   0.254 gamma/min (background:   1.126 events/min)
+RUN 37645 at 46,-119 deg El., Az, 20.05 min, Non:   10, Noff: 12.62 (  98, norm 0.129),  -0.7 sigma, Rates:  -0.131 +/-   0.170 gamma/min (background:   0.629 events/min)
+RUN 37646 at 42,-115 deg El., Az, 20.05 min, Non:   10, Noff: 12.77 (  99, norm 0.129),  -0.8 sigma, Rates:  -0.138 +/-   0.170 gamma/min (background:   0.637 events/min)
+RUN 41021 (-0.5N,+0.0W)  at 52, 126 deg El., Az, 20.05 min, Non:   38, Noff: 34.43 ( 304, norm 0.113),   0.6 sigma, Rates:   0.178 +/-   0.323 gamma/min (background:   1.717 events/min)
+RUN 41022 (-0.0N,-0.5W)  at 55, 132 deg El., Az, 20.05 min, Non:   50, Noff: 38.66 ( 337, norm 0.115),   1.6 sigma, Rates:   0.566 +/-   0.368 gamma/min (background:   1.928 events/min)
+RUN 41023 (+0.0N,+0.5W)  at 59, 142 deg El., Az, 20.05 min, Non:   38, Noff: 31.17 ( 257, norm 0.121),   1.1 sigma, Rates:   0.341 +/-   0.322 gamma/min (background:   1.555 events/min)
+RUN 41024 (+0.5N,-0.0W)  at 61, 148 deg El., Az, 13.03 min, Non:   30, Noff: 19.91 ( 161, norm 0.124),   2.0 sigma, Rates:   0.774 +/-   0.437 gamma/min (background:   1.528 events/min)
+RUN 41025 (+0.7N,-0.0W)  at 63, 157 deg El., Az, 20.05 min, Non:   34, Noff: 31.00 ( 242, norm 0.128),   0.5 sigma, Rates:   0.150 +/-   0.307 gamma/min (background:   1.546 events/min)
+RUN 41051 (-0.7N,+0.0W)  at 54, 131 deg El., Az, 20.05 min, Non:   24, Noff: 36.03 ( 323, norm 0.112),  -2.0 sigma, Rates:  -0.600 +/-   0.264 gamma/min (background:   1.797 events/min)
+RUN 41052 (-0.0N,-0.7W)  at 57, 137 deg El., Az, 20.05 min, Non:   30, Noff: 26.69 ( 233, norm 0.115),   0.6 sigma, Rates:   0.165 +/-   0.287 gamma/min (background:   1.331 events/min)
+RUN 41053 (+0.0N,+0.7W)  at 61, 149 deg El., Az, 20.05 min, Non:   33, Noff: 30.08 ( 241, norm 0.125),   0.5 sigma, Rates:   0.146 +/-   0.302 gamma/min (background:   1.500 events/min)
+RUN 41055 (-0.7N,+0.0W)  at 62, 161 deg El., Az, 20.05 min, Non:   29, Noff: 35.32 ( 316, norm 0.112),  -1.0 sigma, Rates:  -0.315 +/-   0.286 gamma/min (background:   1.762 events/min)
+RUN 41056 (-0.0N,-0.7W)  at 64, 172 deg El., Az, 20.05 min, Non:   35, Noff: 36.06 ( 315, norm 0.114),  -0.2 sigma, Rates:  -0.053 +/-   0.312 gamma/min (background:   1.799 events/min)
+RUN 41057 (+0.0N,+0.7W)  at 64,-172 deg El., Az, 20.05 min, Non:   36, Noff: 34.72 ( 278, norm 0.125),   0.2 sigma, Rates:   0.064 +/-   0.317 gamma/min (background:   1.732 events/min)
+RUN 41082 (+0.7N,-0.0W)  at 62,-152 deg El., Az, 20.05 min, Non:   27, Noff: 23.34 ( 183, norm 0.128),   0.7 sigma, Rates:   0.183 +/-   0.273 gamma/min (background:   1.164 events/min)
+RUN 41104 (+0.7N,-0.0W)  at 64, 165 deg El., Az, 20.05 min, Non:   26, Noff: 26.12 ( 204, norm 0.128),  -0.0 sigma, Rates:  -0.006 +/-   0.270 gamma/min (background:   1.303 events/min)
+RUN 41105 (-0.7N,+0.0W)  at 63, 178 deg El., Az, 20.05 min, Non:   38, Noff: 25.33 ( 226, norm 0.112),   2.2 sigma, Rates:   0.632 +/-   0.319 gamma/min (background:   1.263 events/min)
+RUN 41150 (-0.0N,-0.7W)  at 56, 135 deg El., Az, 20.05 min, Non:   20, Noff: 27.15 ( 237, norm 0.115),  -1.4 sigma, Rates:  -0.357 +/-   0.240 gamma/min (background:   1.354 events/min)
+RUN 41151 (+0.0N,+0.7W)  at 60, 144 deg El., Az, 20.05 min, Non:   29, Noff: 22.58 ( 180, norm 0.125),   1.2 sigma, Rates:   0.320 +/-   0.281 gamma/min (background:   1.126 events/min)
+RUN 41152 (+0.7N,-0.0W)  at 62, 153 deg El., Az, 20.05 min, Non:   26, Noff: 29.37 ( 230, norm 0.128),  -0.6 sigma, Rates:  -0.168 +/-   0.272 gamma/min (background:   1.465 events/min)
+RUN 41153 (-0.7N,+0.0W)  at 63, 165 deg El., Az, 20.05 min, Non:   24, Noff: 29.09 ( 260, norm 0.112),  -0.9 sigma, Rates:  -0.254 +/-   0.260 gamma/min (background:   1.451 events/min)
+RUN 41155 (-0.0N,-0.7W)  at 64,-169 deg El., Az, 20.05 min, Non:   28, Noff: 28.67 ( 250, norm 0.115),  -0.1 sigma, Rates:  -0.034 +/-   0.279 gamma/min (background:   1.430 events/min)
+RUN 41175 (+0.7N,-0.0W)  at 65, 179 deg El., Az, 20.05 min, Non:   37, Noff: 30.69 ( 240, norm 0.128),   1.0 sigma, Rates:   0.315 +/-   0.319 gamma/min (background:   1.531 events/min)
+RUN 41176 (-0.7N,+0.0W)  at 63,-169 deg El., Az, 20.05 min, Non:   43, Noff: 31.51 ( 282, norm 0.112),   1.8 sigma, Rates:   0.573 +/-   0.340 gamma/min (background:   1.572 events/min)
+RUN 46906 (+0.5N,-0.0W)  at 61,-152 deg El., Az, 13.45 min, Non:   20, Noff: 25.66 ( 229, norm 0.112),  -1.1 sigma, Rates:  -0.421 +/-   0.356 gamma/min (background:   1.908 events/min)
+RUN 46936 (+0.5N,-0.0W)  at 63,-178 deg El., Az, 16.62 min, Non:   32, Noff: 37.75 ( 337, norm 0.112),  -0.9 sigma, Rates:  -0.346 +/-   0.362 gamma/min (background:   2.272 events/min)
+RUN 46938 (+0.5N,-0.0W)  at 60,-151 deg El., Az, 20.05 min, Non:   54, Noff: 46.06 ( 411, norm 0.112),   1.1 sigma, Rates:   0.396 +/-   0.384 gamma/min (background:   2.297 events/min)
+RUN 46968 (+0.5N,-0.0W)  at 63,-177 deg El., Az, 20.05 min, Non:   30, Noff: 38.87 ( 347, norm 0.112),  -1.4 sigma, Rates:  -0.442 +/-   0.292 gamma/min (background:   1.938 events/min)
+RUN 46970 (+0.5N,-0.0W)  at 61,-154 deg El., Az, 20.05 min, Non:   34, Noff: 42.47 ( 379, norm 0.112),  -1.3 sigma, Rates:  -0.422 +/-   0.311 gamma/min (background:   2.118 events/min)
+RUN 47001 (+0.5N,-0.0W)  at 63,-173 deg El., Az, 20.05 min, Non:   53, Noff: 45.41 ( 406, norm 0.112),   1.0 sigma, Rates:   0.378 +/-   0.380 gamma/min (background:   2.265 events/min)
+RUN 47003 (+0.5N,-0.0W)  at 60,-150 deg El., Az, 20.05 min, Non:   42, Noff: 39.36 ( 351, norm 0.112),   0.4 sigma, Rates:   0.132 +/-   0.340 gamma/min (background:   1.963 events/min)
+RUN 47036 (+0.5N,-0.0W)  at 64,-172 deg El., Az, 10.05 min, Non:   23, Noff: 24.69 ( 180, norm 0.137),  -0.3 sigma, Rates:  -0.169 +/-   0.511 gamma/min (background:   2.457 events/min)
+RUN 47037 (+0.5N,-0.0W)  at 63,-164 deg El., Az, 20.05 min, Non:   41, Noff: 45.52 ( 407, norm 0.112),  -0.6 sigma, Rates:  -0.225 +/-   0.339 gamma/min (background:   2.270 events/min)
+RUN 47081 (+0.7N,-0.0W)  at 56,-133 deg El., Az, 20.05 min, Non:   46, Noff: 40.46 ( 285, norm 0.142),   0.8 sigma, Rates:   0.277 +/-   0.359 gamma/min (background:   2.018 events/min)
+RUN 47082 (-0.7N,+0.0W)  at 52,-128 deg El., Az, 20.05 min, Non:   35, Noff: 37.80 ( 304, norm 0.124),  -0.4 sigma, Rates:  -0.139 +/-   0.314 gamma/min (background:   1.885 events/min)
+RUN 47130 (-0.7N,+0.0W)  at 52,-128 deg El., Az, 20.05 min, Non:   54, Noff: 39.89 ( 321, norm 0.124),   2.0 sigma, Rates:   0.704 +/-   0.383 gamma/min (background:   1.990 events/min)
+RUN 47464 (+0.5N,-0.0W)  at 58,-142 deg El., Az, 20.05 min, Non:   48, Noff: 42.94 ( 383, norm 0.112),   0.7 sigma, Rates:   0.253 +/-   0.362 gamma/min (background:   2.141 events/min)
+RUN 47500 (+0.5N,-0.0W)  at 58,-141 deg El., Az, 20.05 min, Non:   32, Noff: 44.66 ( 399, norm 0.112),  -1.9 sigma, Rates:  -0.631 +/-   0.303 gamma/min (background:   2.227 events/min)
+RUN 47538 (+0.5N,-0.0W)  at 57,-140 deg El., Az, 20.05 min, Non:   40, Noff: 37.30 ( 333, norm 0.112),   0.4 sigma, Rates:   0.135 +/-   0.332 gamma/min (background:   1.860 events/min)
+RUN 47615 (+0.5N,-0.0W)  at 56,-137 deg El., Az, 20.05 min, Non:   32, Noff: 29.71 ( 265, norm 0.112),   0.4 sigma, Rates:   0.114 +/-   0.296 gamma/min (background:   1.482 events/min)
+RUN 51066 (+0.5N,-0.0W)  at 57, 138 deg El., Az, 20.05 min, Non:   29, Noff: 29.58 ( 264, norm 0.112),  -0.1 sigma, Rates:  -0.029 +/-   0.284 gamma/min (background:   1.475 events/min)
+RUN 51120 (+0.5N,-0.0W)  at 59, 144 deg El., Az, 20.05 min, Non:   30, Noff: 35.75 ( 319, norm 0.112),  -0.9 sigma, Rates:  -0.287 +/-   0.291 gamma/min (background:   1.783 events/min)
+RUN 51295 (+0.5N,-0.0W)  at 55, 134 deg El., Az, 20.05 min, Non:   46, Noff: 41.49 ( 370, norm 0.112),   0.7 sigma, Rates:   0.225 +/-   0.355 gamma/min (background:   2.070 events/min)
+RUN 51297 (+0.5N,-0.0W)  at 61, 151 deg El., Az, 20.05 min, Non:   42, Noff: 36.84 ( 329, norm 0.112),   0.8 sigma, Rates:   0.257 +/-   0.339 gamma/min (background:   1.837 events/min)
+RUN 51316 (+0.5N,-0.0W)  at 55, 133 deg El., Az, 20.05 min, Non:   32, Noff: 40.83 ( 364, norm 0.112),  -1.4 sigma, Rates:  -0.440 +/-   0.302 gamma/min (background:   2.036 events/min)
+RUN 51318 (+0.5N,-0.0W)  at 60, 150 deg El., Az, 20.05 min, Non:   40, Noff: 38.90 ( 347, norm 0.112),   0.2 sigma, Rates:   0.055 +/-   0.332 gamma/min (background:   1.940 events/min)
+RUN 51320 (+0.5N,-0.0W)  at 63, 169 deg El., Az, 10.03 min, Non:   27, Noff: 23.30 ( 208, norm 0.112),   0.7 sigma, Rates:   0.369 +/-   0.542 gamma/min (background:   2.322 events/min)
+RUN 51367 (+0.5N,-0.0W)  at 61, 153 deg El., Az, 20.05 min, Non:   38, Noff: 40.07 ( 358, norm 0.112),  -0.3 sigma, Rates:  -0.103 +/-   0.325 gamma/min (background:   1.999 events/min)
+RUN 51369 (+0.5N,-0.0W)  at 63, 176 deg El., Az, 20.05 min, Non:   36, Noff: 38.34 ( 342, norm 0.112),  -0.4 sigma, Rates:  -0.117 +/-   0.317 gamma/min (background:   1.912 events/min)
+RUN 51411 (+0.5N,-0.0W)  at 63, 178 deg El., Az, 20.05 min, Non:   41, Noff: 45.50 ( 406, norm 0.112),  -0.6 sigma, Rates:  -0.224 +/-   0.339 gamma/min (background:   2.269 events/min)
+RUN 51471 (+0.5N,-0.0W)  at 56, 135 deg El., Az, 20.05 min, Non:   35, Noff: 32.09 ( 285, norm 0.113),   0.5 sigma, Rates:   0.145 +/-   0.310 gamma/min (background:   1.600 events/min)
+RUN 51473 (+0.5N,-0.0W)  at 61, 153 deg El., Az, 20.05 min, Non:   37, Noff: 32.73 ( 291, norm 0.112),   0.7 sigma, Rates:   0.213 +/-   0.318 gamma/min (background:   1.632 events/min)
+RUN 51486 (+0.5N,-0.0W)  at 55, 135 deg El., Az, 20.05 min, Non:   35, Noff: 37.60 ( 336, norm 0.112),  -0.4 sigma, Rates:  -0.130 +/-   0.312 gamma/min (background:   1.875 events/min)
+RUN 51488 (+0.5N,-0.0W)  at 61, 153 deg El., Az, 20.05 min, Non:   32, Noff: 41.91 ( 374, norm 0.112),  -1.5 sigma, Rates:  -0.494 +/-   0.302 gamma/min (background:   2.090 events/min)
+RUN 51491 (+0.5N,-0.0W)  at 63,-176 deg El., Az, 20.05 min, Non:   50, Noff: 43.27 ( 386, norm 0.112),   0.9 sigma, Rates:   0.335 +/-   0.369 gamma/min (background:   2.158 events/min)
+RUN 51496 (+0.5N,-0.0W)  at 60, 150 deg El., Az, 20.05 min, Non:   37, Noff: 39.93 ( 357, norm 0.112),  -0.4 sigma, Rates:  -0.146 +/-   0.321 gamma/min (background:   1.992 events/min)
+RUN 51498 (+0.5N,-0.0W)  at 63, 173 deg El., Az, 20.05 min, Non:   44, Noff: 40.42 ( 361, norm 0.112),   0.5 sigma, Rates:   0.179 +/-   0.347 gamma/min (background:   2.016 events/min)
+RUN 52511 (-0.5N,+0.0W)  at 56,-137 deg El., Az, 20.05 min, Non:   47, Noff: 34.96 ( 278, norm 0.126),   1.8 sigma, Rates:   0.600 +/-   0.358 gamma/min (background:   1.744 events/min)
+RUN 56524 (+0.5N,-0.0W)  at 58, 140 deg El., Az, 20.03 min, Non:   43, Noff: 32.71 ( 292, norm 0.112),   1.6 sigma, Rates:   0.514 +/-   0.341 gamma/min (background:   1.633 events/min)
+RUN 56548 (+0.5N,-0.0W)  at 60, 149 deg El., Az, 20.03 min, Non:   30, Noff: 35.62 ( 318, norm 0.112),  -0.9 sigma, Rates:  -0.281 +/-   0.291 gamma/min (background:   1.778 events/min)
+RUN 56579 (+0.5N,-0.0W)  at 62, 161 deg El., Az, 20.03 min, Non:   29, Noff: 33.98 ( 303, norm 0.112),  -0.8 sigma, Rates:  -0.249 +/-   0.286 gamma/min (background:   1.696 events/min)
+RUN 56651 (+0.5N,-0.0W)  at 59, 144 deg El., Az, 20.03 min, Non:   14, Noff: 18.83 ( 168, norm 0.112),  -1.1 sigma, Rates:  -0.241 +/-   0.200 gamma/min (background:   0.940 events/min)
+RUN 56688 (+0.5N,-0.0W)  at 60, 150 deg El., Az, 20.03 min, Non:   33, Noff: 35.34 ( 316, norm 0.112),  -0.4 sigma, Rates:  -0.117 +/-   0.303 gamma/min (background:   1.764 events/min)
+RUN 56701 (+0.5N,-0.0W)  at 63, 177 deg El., Az, 13.87 min, Non:   32, Noff: 28.31 ( 253, norm 0.112),   0.6 sigma, Rates:   0.266 +/-   0.428 gamma/min (background:   2.042 events/min)
+RUN 56920 (+0.5N,-0.0W)  at 62, 157 deg El., Az, 20.03 min, Non:   28, Noff: 33.86 ( 302, norm 0.112),  -1.0 sigma, Rates:  -0.292 +/-   0.281 gamma/min (background:   1.690 events/min)
+RUN 57022 (+0.5N,-0.0W)  at 56, 135 deg El., Az, 20.03 min, Non:   23, Noff: 28.36 ( 253, norm 0.112),  -1.0 sigma, Rates:  -0.268 +/-   0.255 gamma/min (background:   1.416 events/min)
+RUN 57026 (+0.5N,-0.0W)  at 63, 176 deg El., Az, 20.03 min, Non:   23, Noff: 29.20 ( 261, norm 0.112),  -1.1 sigma, Rates:  -0.310 +/-   0.256 gamma/min (background:   1.458 events/min)
+RUN 57048 (+0.5N,-0.0W)  at 62, 160 deg El., Az, 20.03 min, Non:   30, Noff: 33.24 ( 297, norm 0.112),  -0.5 sigma, Rates:  -0.162 +/-   0.290 gamma/min (background:   1.659 events/min)
+RUN 57067 (+0.5N,-0.0W)  at 57, 142 deg El., Az, 20.03 min, Non:   19, Noff: 25.31 ( 226, norm 0.112),  -1.2 sigma, Rates:  -0.315 +/-   0.233 gamma/min (background:   1.263 events/min)
+RUN 57072 (+0.5N,-0.0W)  at 63,-174 deg El., Az, 20.03 min, Non:   27, Noff: 24.59 ( 220, norm 0.112),   0.5 sigma, Rates:   0.120 +/-   0.272 gamma/min (background:   1.228 events/min)
+RUN 57102 (+0.5N,-0.0W)  at 63,-172 deg El., Az, 20.03 min, Non:   26, Noff: 24.75 ( 221, norm 0.112),   0.2 sigma, Rates:   0.062 +/-   0.268 gamma/min (background:   1.236 events/min)
+RUN 57120 (+0.5N,-0.0W)  at 63, 176 deg El., Az, 20.03 min, Non:   49, Noff: 39.52 ( 353, norm 0.112),   1.4 sigma, Rates:   0.473 +/-   0.365 gamma/min (background:   1.973 events/min)
+RUN 57131 (+0.5N,-0.0W)  at 60, 150 deg El., Az, 20.05 min, Non:   36, Noff: 34.98 ( 312, norm 0.112),   0.2 sigma, Rates:   0.051 +/-   0.315 gamma/min (background:   1.745 events/min)
+RUN 57143 (+0.5N,-0.0W)  at 61, 155 deg El., Az, 20.03 min, Non:   33, Noff: 33.86 ( 303, norm 0.112),  -0.1 sigma, Rates:  -0.043 +/-   0.303 gamma/min (background:   1.690 events/min)
+RUN 57157 (+0.5N,-0.0W)  at 63,-168 deg El., Az, 20.03 min, Non:   22, Noff: 29.16 ( 259, norm 0.113),  -1.3 sigma, Rates:  -0.358 +/-   0.251 gamma/min (background:   1.456 events/min)
+RUN 57355 (+0.5N,-0.0W)  at 62, 161 deg El., Az, 20.03 min, Non:   29, Noff: 27.11 ( 242, norm 0.112),   0.3 sigma, Rates:   0.095 +/-   0.283 gamma/min (background:   1.353 events/min)
+RUN 57405 (+0.5N,-0.0W)  at 62,-163 deg El., Az, 20.03 min, Non:   31, Noff: 30.46 ( 272, norm 0.112),   0.1 sigma, Rates:   0.027 +/-   0.293 gamma/min (background:   1.520 events/min)
+RUN 57798 (-0.0N,-0.5W)  at 62,-156 deg El., Az,  7.90 min, Non:   15, Noff: 11.42 (  93, norm 0.123),   0.9 sigma, Rates:   0.454 +/-   0.513 gamma/min (background:   1.445 events/min)
+RUN 57825 (+0.0N,+0.5W)  at 57,-139 deg El., Az, 20.03 min, Non:   27, Noff: 27.85 ( 231, norm 0.121),  -0.2 sigma, Rates:  -0.042 +/-   0.275 gamma/min (background:   1.390 events/min)
+RUN 57855 (+0.5N,-0.0W)  at 60,-148 deg El., Az, 20.03 min, Non:   28, Noff: 30.54 ( 246, norm 0.124),  -0.4 sigma, Rates:  -0.127 +/-   0.281 gamma/min (background:   1.524 events/min)
+RUN 57856 (-0.5N,+0.0W)  at 57,-140 deg El., Az, 20.03 min, Non:   25, Noff: 26.61 ( 221, norm 0.120),  -0.3 sigma, Rates:  -0.080 +/-   0.265 gamma/min (background:   1.328 events/min)
+RUN 62573 (-0.0N,-0.5W)  at 63, 172 deg El., Az, 19.65 min, Non:   34, Noff: 29.30 ( 239, norm 0.123),   0.8 sigma, Rates:   0.239 +/-   0.312 gamma/min (background:   1.491 events/min)
+RUN 62597 (+0.0N,+0.5W)  at 61, 152 deg El., Az, 20.03 min, Non:   10, Noff: 19.00 ( 158, norm 0.120),  -2.2 sigma, Rates:  -0.449 +/-   0.175 gamma/min (background:   0.949 events/min)
+RUN 62598 (+0.5N,-0.0W)  at 63, 162 deg El., Az, 20.03 min, Non:   27, Noff: 24.61 ( 198, norm 0.124),   0.4 sigma, Rates:   0.120 +/-   0.274 gamma/min (background:   1.228 events/min)
+RUN 62599 (-0.5N,+0.0W)  at 63, 171 deg El., Az,  4.28 min, Non:    5, Noff:  5.65 (  47, norm 0.120),  -0.3 sigma, Rates:  -0.152 +/-   0.556 gamma/min (background:   1.319 events/min)
+RUN 62600 (-0.0N,-0.5W)  at 63, 178 deg El., Az, 20.03 min, Non:   28, Noff: 24.25 ( 197, norm 0.123),   0.7 sigma, Rates:   0.187 +/-   0.278 gamma/min (background:   1.210 events/min)
+RUN 62601 (+0.0N,+0.5W)  at 63,-171 deg El., Az, 10.02 min, Non:   16, Noff: 12.61 ( 105, norm 0.120),   0.9 sigma, Rates:   0.339 +/-   0.418 gamma/min (background:   1.258 events/min)
+RUN 62624 (-0.0N,-0.5W)  at 57, 140 deg El., Az, 20.03 min, Non:   36, Noff: 28.52 ( 232, norm 0.123),   1.3 sigma, Rates:   0.374 +/-   0.314 gamma/min (background:   1.423 events/min)
+RUN 62625 (+0.0N,+0.5W)  at 60, 149 deg El., Az, 20.03 min, Non:   32, Noff: 28.87 ( 239, norm 0.121),   0.5 sigma, Rates:   0.156 +/-   0.297 gamma/min (background:   1.441 events/min)
+RUN 62626 (-0.0N,-0.5W)  at 62, 159 deg El., Az, 25.05 min, Non:   56, Noff: 44.38 ( 361, norm 0.123),   1.6 sigma, Rates:   0.464 +/-   0.313 gamma/min (background:   1.772 events/min)
+RUN 62647 (+0.0N,+0.5W)  at 63, 162 deg El., Az, 20.03 min, Non:   34, Noff: 33.93 ( 281, norm 0.121),   0.0 sigma, Rates:   0.004 +/-   0.308 gamma/min (background:   1.693 events/min)
+RUN 62648 (+0.5N,-0.0W)  at 64, 170 deg El., Az, 10.38 min, Non:   21, Noff: 16.78 ( 135, norm 0.124),   0.9 sigma, Rates:   0.407 +/-   0.463 gamma/min (background:   1.616 events/min)
+RUN 62649 (-0.0N,-0.5W)  at 63, 178 deg El., Az, 20.03 min, Non:   31, Noff: 35.51 ( 289, norm 0.123),  -0.7 sigma, Rates:  -0.225 +/-   0.297 gamma/min (background:   1.773 events/min)
+RUN 62650 (+0.0N,+0.5W)  at 63,-167 deg El., Az, 18.20 min, Non:   28, Noff: 28.09 ( 233, norm 0.121),  -0.0 sigma, Rates:  -0.005 +/-   0.308 gamma/min (background:   1.543 events/min)
+RUN 62698 (-0.0N,-0.5W)  at 58, 144 deg El., Az, 20.03 min, Non:   19, Noff: 23.69 ( 193, norm 0.123),  -0.9 sigma, Rates:  -0.234 +/-   0.234 gamma/min (background:   1.182 events/min)
+RUN 62699 (+0.0N,+0.5W)  at 61, 154 deg El., Az, 20.03 min, Non:   35, Noff: 28.87 ( 240, norm 0.120),   1.0 sigma, Rates:   0.306 +/-   0.310 gamma/min (background:   1.441 events/min)
+RUN 62700 (-0.0N,-0.5W)  at 63, 164 deg El., Az, 20.03 min, Non:   35, Noff: 28.84 ( 235, norm 0.123),   1.0 sigma, Rates:   0.307 +/-   0.310 gamma/min (background:   1.440 events/min)
+RUN 62701 (+0.0N,+0.5W)  at 63, 176 deg El., Az, 20.03 min, Non:   36, Noff: 31.13 ( 258, norm 0.121),   0.8 sigma, Rates:   0.243 +/-   0.315 gamma/min (background:   1.554 events/min)
+RUN 62702 (-0.0N,-0.5W)  at 63,-171 deg El., Az, 25.05 min, Non:   40, Noff: 40.20 ( 327, norm 0.123),  -0.0 sigma, Rates:  -0.008 +/-   0.268 gamma/min (background:   1.605 events/min)
+RUN 62721 (+0.0N,+0.5W)  at 61, 151 deg El., Az, 20.03 min, Non:   20, Noff: 25.55 ( 212, norm 0.120),  -1.1 sigma, Rates:  -0.277 +/-   0.240 gamma/min (background:   1.275 events/min)
+RUN 62722 (-0.0N,-0.5W)  at 62, 160 deg El., Az, 20.03 min, Non:   27, Noff: 26.60 ( 216, norm 0.123),   0.1 sigma, Rates:   0.020 +/-   0.275 gamma/min (background:   1.328 events/min)
+RUN 62723 (+0.0N,+0.5W)  at 63, 173 deg El., Az, 20.03 min, Non:   36, Noff: 29.09 ( 242, norm 0.120),   1.2 sigma, Rates:   0.345 +/-   0.314 gamma/min (background:   1.452 events/min)
+RUN 62724 (-0.0N,-0.5W)  at 63,-175 deg El., Az, 20.03 min, Non:   34, Noff: 29.38 ( 239, norm 0.123),   0.8 sigma, Rates:   0.231 +/-   0.306 gamma/min (background:   1.467 events/min)
+RUN 62725 (+0.0N,+0.5W)  at 62,-162 deg El., Az, 20.03 min, Non:   28, Noff: 28.19 ( 235, norm 0.120),  -0.0 sigma, Rates:  -0.010 +/-   0.280 gamma/min (background:   1.407 events/min)
+RUN 62749 (-0.0N,-0.5W)  at 59, 144 deg El., Az,  8.75 min, Non:    8, Noff: 10.53 (  86, norm 0.122),  -0.8 sigma, Rates:  -0.289 +/-   0.348 gamma/min (background:   1.203 events/min)
+RUN 62750 (-0.0N,-0.5W)  at 61, 154 deg El., Az, 20.03 min, Non:   25, Noff: 21.65 ( 172, norm 0.126),   0.7 sigma, Rates:   0.167 +/-   0.263 gamma/min (background:   1.081 events/min)
+RUN 62751 (+0.0N,+0.5W)  at 63, 167 deg El., Az, 20.03 min, Non:   35, Noff: 33.91 ( 282, norm 0.120),   0.2 sigma, Rates:   0.055 +/-   0.312 gamma/min (background:   1.692 events/min)
+RUN 62752 (-0.0N,-0.5W)  at 63, 178 deg El., Az, 20.03 min, Non:   30, Noff: 33.87 ( 276, norm 0.123),  -0.6 sigma, Rates:  -0.193 +/-   0.292 gamma/min (background:   1.691 events/min)
+RUN 62753 (+0.0N,+0.5W)  at 63,-167 deg El., Az, 23.93 min, Non:   37, Noff: 40.12 ( 333, norm 0.120),  -0.5 sigma, Rates:  -0.130 +/-   0.270 gamma/min (background:   1.676 events/min)
+RUN 62774 (+0.0N,+0.5W)  at 61, 154 deg El., Az, 20.03 min, Non:   47, Noff: 35.27 ( 293, norm 0.120),   1.8 sigma, Rates:   0.586 +/-   0.357 gamma/min (background:   1.760 events/min)
+RUN 62775 (-0.0N,-0.5W)  at 63, 165 deg El., Az, 20.03 min, Non:   35, Noff: 37.75 ( 306, norm 0.123),  -0.4 sigma, Rates:  -0.137 +/-   0.314 gamma/min (background:   1.884 events/min)
+RUN 62776 (+0.0N,+0.5W)  at 63, 176 deg El., Az, 20.03 min, Non:   39, Noff: 35.02 ( 291, norm 0.120),   0.6 sigma, Rates:   0.199 +/-   0.328 gamma/min (background:   1.748 events/min)
+RUN 62777 (-0.0N,-0.5W)  at 63,-171 deg El., Az, 20.03 min, Non:   40, Noff: 35.86 ( 292, norm 0.123),   0.6 sigma, Rates:   0.207 +/-   0.333 gamma/min (background:   1.790 events/min)
+RUN 62778 (+0.0N,+0.5W)  at 62,-161 deg El., Az, 12.83 min, Non:   18, Noff: 22.44 ( 187, norm 0.120),  -0.9 sigma, Rates:  -0.346 +/-   0.354 gamma/min (background:   1.749 events/min)
+RUN 62794 (-0.0N,-0.5W)  at 63, 178 deg El., Az, 20.03 min, Non:   44, Noff: 38.85 ( 317, norm 0.123),   0.8 sigma, Rates:   0.257 +/-   0.349 gamma/min (background:   1.939 events/min)
+RUN 62795 (+0.0N,+0.5W)  at 63,-166 deg El., Az, 20.03 min, Non:   42, Noff: 37.92 ( 316, norm 0.120),   0.6 sigma, Rates:   0.203 +/-   0.341 gamma/min (background:   1.893 events/min)
+RUN 62823 (-0.0N,-0.5W)  at 64, 167 deg El., Az, 20.03 min, Non:   41, Noff: 36.98 ( 299, norm 0.124),   0.6 sigma, Rates:   0.201 +/-   0.337 gamma/min (background:   1.846 events/min)
+RUN 62824 (+0.0N,+0.5W)  at 64,-178 deg El., Az, 20.03 min, Non:   35, Noff: 32.12 ( 234, norm 0.137),   0.5 sigma, Rates:   0.144 +/-   0.313 gamma/min (background:   1.603 events/min)
+RUN 62825 (-0.0N,-0.5W)  at 64,-167 deg El., Az, 20.03 min, Non:   42, Noff: 35.01 ( 283, norm 0.124),   1.1 sigma, Rates:   0.349 +/-   0.340 gamma/min (background:   1.747 events/min)
+RUN 62826 (+0.0N,+0.5W)  at 62,-156 deg El., Az, 14.03 min, Non:   25, Noff: 21.93 ( 160, norm 0.137),   0.6 sigma, Rates:   0.219 +/-   0.377 gamma/min (background:   1.563 events/min)
+RUN 62857 (-0.0N,-0.5W)  at 61, 156 deg El., Az, 20.03 min, Non:   32, Noff: 28.43 ( 232, norm 0.123),   0.6 sigma, Rates:   0.178 +/-   0.297 gamma/min (background:   1.419 events/min)
+RUN 62858 (+0.0N,+0.5W)  at 63, 168 deg El., Az, 20.03 min, Non:   35, Noff: 31.15 ( 259, norm 0.120),   0.6 sigma, Rates:   0.192 +/-   0.311 gamma/min (background:   1.555 events/min)
+RUN 62859 (-0.0N,-0.5W)  at 63, 177 deg El., Az, 20.03 min, Non:   33, Noff: 28.58 ( 232, norm 0.123),   0.8 sigma, Rates:   0.220 +/-   0.302 gamma/min (background:   1.427 events/min)
+RUN 62860 (+0.0N,+0.5W)  at 63,-168 deg El., Az, 20.03 min, Non:   31, Noff: 31.83 ( 264, norm 0.121),  -0.1 sigma, Rates:  -0.041 +/-   0.295 gamma/min (background:   1.589 events/min)
+RUN 62861 (-0.0N,-0.5W)  at 62,-159 deg El., Az, 20.03 min, Non:   40, Noff: 30.37 ( 247, norm 0.123),   1.6 sigma, Rates:   0.481 +/-   0.330 gamma/min (background:   1.516 events/min)
+RUN 62885 (+0.0N,+0.5W)  at 63,-176 deg El., Az, 20.03 min, Non:   32, Noff: 24.59 ( 201, norm 0.122),   1.3 sigma, Rates:   0.370 +/-   0.295 gamma/min (background:   1.228 events/min)
+RUN 62886 (-0.0N,-0.5W)  at 63, 171 deg El., Az, 11.97 min, Non:   19, Noff: 15.21 ( 121, norm 0.126),   0.9 sigma, Rates:   0.316 +/-   0.382 gamma/min (background:   1.271 events/min)
+RUN 62920 (+0.0N,+0.5W)  at 63,-176 deg El., Az, 20.03 min, Non:   31, Noff: 34.61 ( 287, norm 0.121),  -0.6 sigma, Rates:  -0.180 +/-   0.296 gamma/min (background:   1.728 events/min)
+RUN 62921 (-0.0N,-0.5W)  at 63,-165 deg El., Az, 20.03 min, Non:   36, Noff: 34.47 ( 281, norm 0.123),   0.2 sigma, Rates:   0.076 +/-   0.317 gamma/min (background:   1.721 events/min)
+RUN 62922 (+0.0N,+0.5W)  at 61,-152 deg El., Az, 24.27 min, Non:   31, Noff: 35.42 ( 295, norm 0.120),  -0.7 sigma, Rates:  -0.182 +/-   0.245 gamma/min (background:   1.460 events/min)
+RUN 62967 (-0.0N,-0.5W)  at 63,-171 deg El., Az, 20.03 min, Non:   36, Noff: 34.74 ( 283, norm 0.123),   0.2 sigma, Rates:   0.063 +/-   0.317 gamma/min (background:   1.734 events/min)
+RUN 62969 (+0.0N,+0.5W)  at 61,-152 deg El., Az, 30.05 min, Non:   45, Noff: 48.37 ( 402, norm 0.120),  -0.5 sigma, Rates:  -0.112 +/-   0.237 gamma/min (background:   1.610 events/min)
+RUN 62991 (-0.0N,-0.5W)  at 63, 171 deg El., Az, 30.05 min, Non:   46, Noff: 40.12 ( 327, norm 0.123),   0.9 sigma, Rates:   0.196 +/-   0.237 gamma/min (background:   1.335 events/min)
+RUN 63008 (+0.0N,+0.5W)  at 62,-158 deg El., Az, 20.03 min, Non:   11, Noff: 15.00 ( 125, norm 0.120),  -1.0 sigma, Rates:  -0.200 +/-   0.179 gamma/min (background:   0.749 events/min)
+RUN 63009 (-0.0N,-0.5W)  at 60,-150 deg El., Az, 20.03 min, Non:   13, Noff: 15.97 ( 130, norm 0.123),  -0.7 sigma, Rates:  -0.148 +/-   0.193 gamma/min (background:   0.797 events/min)
+RUN 63089 (+0.0N,+0.5W)  at 63,-176 deg El., Az, 20.03 min, Non:   19, Noff: 23.91 ( 195, norm 0.123),  -1.0 sigma, Rates:  -0.245 +/-   0.234 gamma/min (background:   1.194 events/min)
+RUN 63090 (-0.0N,-0.5W)  at 63,-166 deg El., Az, 20.03 min, Non:   23, Noff: 25.32 ( 202, norm 0.125),  -0.4 sigma, Rates:  -0.116 +/-   0.255 gamma/min (background:   1.264 events/min)
+RUN 63129 (+0.0N,+0.5W)  at 63, 176 deg El., Az, 20.03 min, Non:   21, Noff: 36.20 ( 301, norm 0.120),  -2.6 sigma, Rates:  -0.759 +/-   0.251 gamma/min (background:   1.807 events/min)
+RUN 63130 (-0.0N,-0.5W)  at 63,-174 deg El., Az, 20.03 min, Non:   53, Noff: 32.25 ( 262, norm 0.123),   3.1 sigma, Rates:   1.036 +/-   0.377 gamma/min (background:   1.610 events/min)
+RUN 63131 (+0.0N,+0.5W)  at 62,-161 deg El., Az, 20.03 min, Non:   35, Noff: 34.77 ( 290, norm 0.120),   0.0 sigma, Rates:   0.011 +/-   0.312 gamma/min (background:   1.736 events/min)
+RUN 63132 (-0.0N,-0.5W)  at 61,-151 deg El., Az, 20.03 min, Non:   46, Noff: 33.59 ( 273, norm 0.123),   1.9 sigma, Rates:   0.619 +/-   0.353 gamma/min (background:   1.677 events/min)
+RUN 63133 (+0.0N,+0.5W)  at 58,-140 deg El., Az, 20.03 min, Non:   44, Noff: 37.66 ( 313, norm 0.120),   0.9 sigma, Rates:   0.317 +/-   0.348 gamma/min (background:   1.880 events/min)
+RUN 63134 (-0.0N,-0.5W)  at 55,-134 deg El., Az, 20.03 min, Non:   30, Noff: 30.67 ( 250, norm 0.123),  -0.1 sigma, Rates:  -0.034 +/-   0.290 gamma/min (background:   1.531 events/min)
+RUN 63167 (+0.0N,+0.5W)  at 61, 152 deg El., Az, 20.03 min, Non:   22, Noff: 29.71 ( 247, norm 0.120),  -1.4 sigma, Rates:  -0.385 +/-   0.252 gamma/min (background:   1.483 events/min)
+RUN 63168 (+0.5N,-0.0W)  at 63, 161 deg El., Az, 16.52 min, Non:   22, Noff: 25.05 ( 201, norm 0.125),  -0.6 sigma, Rates:  -0.184 +/-   0.303 gamma/min (background:   1.516 events/min)
+RUN 63169 (-0.0N,-0.5W)  at 63, 171 deg El., Az, 20.03 min, Non:   36, Noff: 33.03 ( 269, norm 0.123),   0.5 sigma, Rates:   0.148 +/-   0.316 gamma/min (background:   1.649 events/min)
+RUN 63170 (+0.0N,+0.5W)  at 63,-174 deg El., Az, 20.03 min, Non:   25, Noff: 37.19 ( 309, norm 0.120),  -2.0 sigma, Rates:  -0.608 +/-   0.271 gamma/min (background:   1.856 events/min)
+RUN 63207 (-0.0N,-0.5W)  at 63, 177 deg El., Az, 20.03 min, Non:   40, Noff: 33.08 ( 269, norm 0.123),   1.1 sigma, Rates:   0.346 +/-   0.331 gamma/min (background:   1.651 events/min)
+RUN 63208 (+0.0N,+0.5W)  at 63,-170 deg El., Az, 20.03 min, Non:   42, Noff: 32.72 ( 272, norm 0.120),   1.5 sigma, Rates:   0.463 +/-   0.338 gamma/min (background:   1.633 events/min)
+RUN 63209 (-0.0N,-0.5W)  at 62,-160 deg El., Az, 20.03 min, Non:   34, Noff: 33.97 ( 277, norm 0.123),   0.0 sigma, Rates:   0.002 +/-   0.308 gamma/min (background:   1.695 events/min)
+RUN 63240 (+0.0N,+0.5W)  at 63, 177 deg El., Az, 20.03 min, Non:   29, Noff: 29.51 ( 245, norm 0.120),  -0.1 sigma, Rates:  -0.026 +/-   0.285 gamma/min (background:   1.473 events/min)
+RUN 63289 (-0.0N,-0.5W)  at 61, 157 deg El., Az, 20.03 min, Non:   31, Noff: 34.19 ( 279, norm 0.123),  -0.5 sigma, Rates:  -0.159 +/-   0.296 gamma/min (background:   1.706 events/min)
+RUN 63290 (+0.0N,+0.5W)  at 63, 169 deg El., Az, 20.03 min, Non:   26, Noff: 31.15 ( 259, norm 0.120),  -0.9 sigma, Rates:  -0.257 +/-   0.272 gamma/min (background:   1.555 events/min)
+RUN 63291 (-0.0N,-0.5W)  at 63, 178 deg El., Az, 20.03 min, Non:   37, Noff: 34.45 ( 281, norm 0.123),   0.4 sigma, Rates:   0.127 +/-   0.320 gamma/min (background:   1.720 events/min)
+RUN 63309 (-0.0N,-0.5W)  at 57, 139 deg El., Az, 20.03 min, Non:   15, Noff: 13.66 ( 111, norm 0.123),   0.3 sigma, Rates:   0.067 +/-   0.204 gamma/min (background:   0.682 events/min)
+RUN 63310 (+0.0N,+0.5W)  at 60, 149 deg El., Az, 20.03 min, Non:   18, Noff: 12.74 ( 106, norm 0.120),   1.3 sigma, Rates:   0.263 +/-   0.221 gamma/min (background:   0.636 events/min)
+
+-----------------------------------------------------------------------------(6)
+ALL RUNS (194 runs) at 59,  44 deg El., Az, 3771.03 min, Non: 6097, Noff: 5905.29 (49800, norm 0.119),   2.3 sigma, Rates:   0.051 +/-   0.022 gamma/min (background:   1.566 events/min)
+
+analysis results written to ./anasumCombined.root
